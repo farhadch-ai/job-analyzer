@@ -1,0 +1,3 @@
+[
+  "Job 2: 1 validation error for JobRecord\nbudget_type\n  Input should be 'fixed' or 'hourly' [type=literal_error, input_value='null', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.13/v/literal_error"
+]
